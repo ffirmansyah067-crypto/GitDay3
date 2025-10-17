@@ -1,0 +1,4 @@
+DAFTAR COMMIT: git log --oneline
+1 echo JUMLAH FILE HTML DAN CSS:
+HTML files:1  1
+CSS files:1  1
